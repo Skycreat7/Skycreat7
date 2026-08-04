@@ -7,6 +7,7 @@
 
 ---
 
-<a href="https://codetime.dev"><img alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=flat&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D30160%26language%3Dlua"></a>
-<a href="https://codetime.dev"><img alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=flat&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D30160%26language%3Dtypescriptreact"></a>
-<a href="https://codetime.dev"><img alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=flat&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D30160%26language%3Dtypescript"></a>
+<a href="https://codetime.dev"><img alt="CodeTime Badge Lua" src="https://shields.jannchie.com/endpoint?style=flat&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D30160%26language%3Dlua"></a>
+<a href="https://codetime.dev"><img alt="CodeTime Badge TSX" src="https://shields.jannchie.com/endpoint?style=flat&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D30160%26language%3Dtypescriptreact"></a>
+<a href="https://codetime.dev"><img alt="CodeTime Badge TS" src="https://shields.jannchie.com/endpoint?style=flat&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D30160%26language%3Dtypescript"></a>
+<a href="https://codetime.dev"><img alt="CodeTime Badge C#" src="https://shields.jannchie.com/endpoint?style=flat&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D30160%26language%3Dcsharp"></a>
