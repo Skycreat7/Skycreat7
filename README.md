@@ -1,13 +1,13 @@
-<a href="https://codetime.dev/">
-  <img height=200 align="center" src="https://codetime.dev/api/widgets/donut.svg?uid=30160&days=30&limit=6&theme=dark" />
+<a href="https://time.starlightv.dev">
+  <img
+    alt="Startime Calendar Badge"
+    src="https://time.starlightv.dev/api/badge/calendar?shareKey=JJMNISQO37502404"
+  />
 </a>
-<a href="https://codetime.dev/">
-  <img height=200 align="center" src="https://codetime.dev/api/widgets/status.svg?uid=30160&theme=dark&style=detailed&primary=project&secondary=editor" />
+<a href="https://time.starlightv.dev">
+  <img
+    width="400"
+    alt="Startime Language Badge"
+    src="https://time.starlightv.dev/api/badge/lang?shareKey=OVADMWOH18917971"
+  />
 </a>
-
----
-
-<a href="https://codetime.dev"><img alt="CodeTime Badge Lua" src="https://shields.jannchie.com/endpoint?style=flat&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D30160%26language%3Dlua"></a>
-<a href="https://codetime.dev"><img alt="CodeTime Badge TSX" src="https://shields.jannchie.com/endpoint?style=flat&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D30160%26language%3Dtypescriptreact"></a>
-<a href="https://codetime.dev"><img alt="CodeTime Badge TS" src="https://shields.jannchie.com/endpoint?style=flat&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D30160%26language%3Dtypescript"></a>
-<a href="https://codetime.dev"><img alt="CodeTime Badge C#" src="https://shields.jannchie.com/endpoint?style=flat&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D30160%26language%3Dcsharp"></a>
